@@ -1,0 +1,2 @@
+# EasyChatOSC
+基于python使用VRChat的OSC功能发送聊天内容的程序
