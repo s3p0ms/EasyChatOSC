@@ -5,7 +5,7 @@
 
 输入"[rslist]"即可被识别为放置"最近进程"的位置
 建议发送间隔最短1.5s，我一般用2.5s
-
+默认截取窗口名前8个字符，代码里边注释是假的我手动改过了
 可以实现如下
 
 <img width="2560" height="1387" alt="image" src="https://github.com/user-attachments/assets/10fb9fb0-c415-47fd-8dfc-cc44433cb850" />
