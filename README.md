@@ -12,7 +12,8 @@
 <img width="512" height="750" alt="image" src="https://github.com/user-attachments/assets/6e985542-cded-4654-b527-e4f976175092" />
 
 # English(Chinese to English translation)
-#By Google Translate
+By Google Translate
+
 Python-based program to send chat content using VRChat's OSC function
 
 Enter "[rslist]" to be recognized as the location for placing "recent processes"
