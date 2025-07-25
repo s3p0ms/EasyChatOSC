@@ -1,4 +1,5 @@
 # EasyChatOSC
+# 代码全由deepseek(AI)编写
 # Chinese
 基于python使用VRChat的OSC功能发送聊天内容的程序
 
@@ -12,6 +13,7 @@
 <img width="512" height="750" alt="image" src="https://github.com/user-attachments/assets/6e985542-cded-4654-b527-e4f976175092" />
 
 # English(Chinese to English translation)
+# #All code written by deepseek(AI)
 By Google Translate
 
 Python-based program to send chat content using VRChat's OSC function
