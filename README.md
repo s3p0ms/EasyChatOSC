@@ -28,6 +28,7 @@ Enter "[rslist]" to be recognized as the location for placing "recent processes"
 The recommended minimum sending interval is 1.5s, I usually use 2.5s
 
 By default, the first 8 characters of the window name are intercepted. The comments in the code are fake. I changed them manually.
+
 This can be achieved as follows
 
 <img width="2560" height="1387" alt="image" src="https://github.com/user-attachments/assets/10fb9fb0-c415-47fd-8dfc-cc44433cb850" />
