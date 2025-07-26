@@ -422,11 +422,11 @@ class VRChatOSCChatApp:
         
         if "[CPU%]" in message:
             cpu_bar = self.draw_progress_bar(self.cpu_usage)
-            message = message.replace("[CPU%]", f"{cpu_bar} {self.cpu_usage:.1f}%")
+            message = message.replace("[CPU%]", f"{cpu_bar} CPU {self.cpu_usage:.1f}%")
         
         if "[RAM%]" in message:
             ram_bar = self.draw_progress_bar(self.ram_usage)
-            message = message.replace("[RAM%]", f"{ram_bar} {self.ram_usage:.1f}%")
+            message = message.replace("[RAM%]", f"{ram_bar} RAM {self.ram_usage:.1f}%")
         
         if "[scoket]" in message:
             # 向所有Socket客户端请求数据
