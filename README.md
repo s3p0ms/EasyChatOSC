@@ -1,4 +1,9 @@
 # EasyChatOSC
+
+QQ群：575342858
+
+点击链接加入群聊【EasyChatOSC】：https://qm.qq.com/q/okhS7YlzJm
+
 # 代码全由deepseek(AI)编写
 # Chinese
 基于python使用VRChat的OSC功能发送聊天内容的程序
