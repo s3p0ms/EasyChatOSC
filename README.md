@@ -45,8 +45,6 @@ By default, the first 8 characters of the window name are intercepted. The comme
 
 This can be achieved as follows
 
-# Important: The content in the picture is not the latest
-
 <img width="1173" height="813" alt="image" src="https://github.com/user-attachments/assets/55249f48-7a09-4f69-8d39-7ce3c417ecc8" />
 
 <img width="1310" height="1137" alt="image" src="https://github.com/user-attachments/assets/1c2c5b79-89f4-4b69-8e86-cca07fd41a4a" />
