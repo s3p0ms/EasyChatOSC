@@ -18,15 +18,9 @@ QQ群：575342858
 
 可以实现如下
 
-# 重要：图片中的内容不是最新的
+<img width="1179" height="863" alt="image" src="https://github.com/user-attachments/assets/8d6f4274-24f8-4388-8a59-b49e2afa623a" />
 
-<img width="1323" height="1140" alt="image" src="https://github.com/user-attachments/assets/58845318-7df6-4553-a9a0-5e3978f4a3de" />
-
-<img width="2560" height="1387" alt="image" src="https://github.com/user-attachments/assets/10fb9fb0-c415-47fd-8dfc-cc44433cb850" />
-
-软件UI：
-
-<img width="512" height="750" alt="image" src="https://github.com/user-attachments/assets/6e985542-cded-4654-b527-e4f976175092" />
+<img width="1310" height="1137" alt="image" src="https://github.com/user-attachments/assets/1c2c5b79-89f4-4b69-8e86-cca07fd41a4a" />
 
 插件UI：
 
@@ -51,13 +45,9 @@ This can be achieved as follows
 
 # Important: The content in the picture is not the latest
 
-<img width="1323" height="1140" alt="image" src="https://github.com/user-attachments/assets/58845318-7df6-4553-a9a0-5e3978f4a3de" />
+<img width="1179" height="863" alt="image" src="https://github.com/user-attachments/assets/8d6f4274-24f8-4388-8a59-b49e2afa623a" />
 
-<img width="2560" height="1387" alt="image" src="https://github.com/user-attachments/assets/10fb9fb0-c415-47fd-8dfc-cc44433cb850" />
-
-Software UI:
-
-<img width="512" height="750" alt="image" src="https://github.com/user-attachments/assets/6e985542-cded-4654-b527-e4f976175092" />
+<img width="1310" height="1137" alt="image" src="https://github.com/user-attachments/assets/1c2c5b79-89f4-4b69-8e86-cca07fd41a4a" />
 
 Plugin UI：
 
