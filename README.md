@@ -1,5 +1,7 @@
 # EasyChatOSC
 
+# 已知问题：socket通信时ui会卡死
+
 QQ群：575342858
 
 点击链接加入群聊【EasyChatOSC】：https://qm.qq.com/q/okhS7YlzJm
@@ -18,7 +20,7 @@ QQ群：575342858
 
 可以实现如下
 
-<img width="1179" height="863" alt="image" src="https://github.com/user-attachments/assets/8d6f4274-24f8-4388-8a59-b49e2afa623a" />
+<img width="1173" height="813" alt="image" src="https://github.com/user-attachments/assets/55249f48-7a09-4f69-8d39-7ce3c417ecc8" />
 
 <img width="1310" height="1137" alt="image" src="https://github.com/user-attachments/assets/1c2c5b79-89f4-4b69-8e86-cca07fd41a4a" />
 
@@ -26,7 +28,7 @@ QQ群：575342858
 
 <img width="741" height="643" alt="image" src="https://github.com/user-attachments/assets/ee00578e-2dba-4e10-a542-f1678e08591f" />
 
-
+# Known issue: UI freezes during socket communication
 # English(Chinese to English translation)
 # #All code written by deepseek(AI)
 By Google Translate
@@ -45,7 +47,7 @@ This can be achieved as follows
 
 # Important: The content in the picture is not the latest
 
-<img width="1179" height="863" alt="image" src="https://github.com/user-attachments/assets/8d6f4274-24f8-4388-8a59-b49e2afa623a" />
+<img width="1173" height="813" alt="image" src="https://github.com/user-attachments/assets/55249f48-7a09-4f69-8d39-7ce3c417ecc8" />
 
 <img width="1310" height="1137" alt="image" src="https://github.com/user-attachments/assets/1c2c5b79-89f4-4b69-8e86-cca07fd41a4a" />
 
